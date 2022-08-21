@@ -1,0 +1,67 @@
+/*regla css*/
+
+.titulo {
+    background-color: rgb(204, 203, 203);
+    color: #005677;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+}
+
+.titulo2 {
+    background-color: rgb(204, 203, 203);
+    color: #005677;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+}
+
+.negrilla1 {
+    font-family: 'Times New Roman';
+    font-style: italic;
+    color: black;
+    font-weight: 600;
+}
+
+.negrilla2 {
+    font-family: 'Times New Roman';
+    font-style: normal;
+    color: black;
+    font-weight: 600;
+}
+
+.titulo3 {
+    background-color: rgb(204, 203, 203);
+    color: #005677;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+}
+
+.titulo4 {
+    background-color: rgb(204, 203, 203);
+    color: #005677;
+ 
+    font-family: 'Times New Roman';
+    font-style: normal;
+}
+
+.batman {
+    background: #005677;
+    color: white;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+}
+
+.logo {
+    background: #E6E6E6;
+}
+
+.margen{
+    margin-top: 128px;
+}
+
+.margen2{
+    margin-top: 150px;
+}
